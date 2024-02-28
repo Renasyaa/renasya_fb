@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161148782686",
+    "project_id": "renasya-fb",
+    "storage_bucket": "renasya-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161148782686:android:778c54b8850e67a4754ccf",
+        "android_client_info": {
+          "package_name": "com.example.renasya_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XnpGFarWBiDHxQJiIFkIkOWCKDrLQYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
